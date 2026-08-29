@@ -8,6 +8,7 @@
 | [0027-remove-element](https://github.com/vtu28713-collab/problem-solving-and-testing-week-2/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/vtu28713-collab/problem-solving-and-testing-week-2/tree/master/0053-maximum-subarray) |
 | [1470-shuffle-the-array](https://github.com/vtu28713-collab/problem-solving-and-testing-week-2/tree/master/1470-shuffle-the-array) |
+| [1732-find-the-highest-altitude](https://github.com/vtu28713-collab/problem-solving-and-testing-week-2/tree/master/1732-find-the-highest-altitude) |
 | [1920-build-array-from-permutation](https://github.com/vtu28713-collab/problem-solving-and-testing-week-2/tree/master/1920-build-array-from-permutation) |
 ## Simulation
 |  |
@@ -26,4 +27,8 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/vtu28713-collab/problem-solving-and-testing-week-2/tree/master/0053-maximum-subarray) |
+## Prefix Sum
+|  |
+| ------- |
+| [1732-find-the-highest-altitude](https://github.com/vtu28713-collab/problem-solving-and-testing-week-2/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
